@@ -32,5 +32,5 @@ function doWhileLoop(array) {
     incrementVariable();
     array.pop();
   }
-  while (i < (l - 1))
+  while (i < l)
 }
